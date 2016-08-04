@@ -1,0 +1,28 @@
+_repo: The-Water-goats-and-other-troubles_1285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: The water goats.--Mr. Billing's pockets.--Our first burglar.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The water goats -- Mr. Billing's pockets -- Our first burglar.
+title: The Water Goats, and Other Troubles
+url: http://www.gutenberg.org/ebooks/1285
